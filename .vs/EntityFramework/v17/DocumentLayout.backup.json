@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511D9A83-FFC4-44B7-A4FB-E92EC96E5603}|EntityFramework.csproj|c:\\users\\cem\\basic_c#_programs\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511D9A83-FFC4-44B7-A4FB-E92EC96E5603}|EntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511D9A83-FFC4-44B7-A4FB-E92EC96E5603}|EntityFramework.csproj|c:\\users\\cem\\basic_c#_programs\\entityframework\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511D9A83-FFC4-44B7-A4FB-E92EC96E5603}|EntityFramework.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511D9A83-FFC4-44B7-A4FB-E92EC96E5603}|EntityFramework.csproj|c:\\users\\cem\\basic_c#_programs\\entityframework\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511D9A83-FFC4-44B7-A4FB-E92EC96E5603}|EntityFramework.csproj|solutionrelative:schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolContext.cs",
+              "ToolTip": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:30:27.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:02:25.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cem\\Basic_C#_Programs\\EntityFramework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:58:12.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
